@@ -1,0 +1,3 @@
+peak declaration (visualizza pop-up): seleziona simbolo + ( ALT + F12 )
+visualizzazione precedente: ALT + <- 
+seleziona linee multiple: ALT + puntatore mouse
