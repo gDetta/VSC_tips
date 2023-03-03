@@ -1,4 +1,4 @@
-peak declaration (visualizza pop-up): seleziona simbolo + ( ALT + F12 )
-visualizzazione precedente: ALT + <- 
-seleziona linee multiple: ALT + puntatore mouse
-aprire VSC da repository online (GitHub, Azure DevOps, ...): premere tasto "." nella repo
+-peak declaration (visualizza pop-up): seleziona simbolo + ( ALT + F12 )
+-visualizzazione precedente: ALT + <- 
+-seleziona linee multiple: ALT + puntatore mouse
+-aprire VSC da repository online (GitHub, Azure DevOps, ...): premere tasto "." nella repo
