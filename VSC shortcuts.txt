@@ -2,3 +2,4 @@
 -visualizzazione precedente: ALT + <- 
 -seleziona linee multiple: ALT + puntatore mouse
 -aprire VSC da repository online (GitHub, Azure DevOps, ...): premere tasto "." nella repo
+-suggerimento autocompletamento: CTRL + SPACE
